@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Universidad Tecnológica de Emiliano Zapata
 Desarrollo de Software Multiplataforma
+=======
+Hola mundo
+Héctor Daniel
+Marquina Rodríguez
+>>>>>>> Hector
