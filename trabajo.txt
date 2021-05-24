@@ -1,3 +1,2 @@
-Hola mundo
 Universidad Tecnológica de Emiliano Zapata
 Desarrollo de Software Multiplataforma
